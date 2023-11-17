@@ -1,10 +1,4 @@
-.landofhope-global-by {
-    background-color: transparent;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    width: 100%;
-  }
+
   
   .landofhope-global-by .overlap-wrapper {
     width: 100%;
@@ -60,7 +54,7 @@
   .landofhope-global-by .figure {
     position: absolute;
     width: 870px;
-    height: 394px;
+    height: 450px;
     top: 84px;
     left: 205px;
     background-color: #f9f9f9;
